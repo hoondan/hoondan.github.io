@@ -1,6 +1,6 @@
-# Landing Page Jekyll theme
+# 시작이 반이다.
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+#Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
  - Place a image in `/img/services/`
